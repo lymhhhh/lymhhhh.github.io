@@ -17,10 +17,36 @@
       </tags>
   </entry>
   <entry>
-    <title>readme</title>
+    <title>我的第一篇博客</title>
     <url>/2021/08/06/readme/</url>
     <content><![CDATA[<h1 id="我的第一篇博客">我的第一篇博客</h1>
 <p>这是我的第一篇博客，用于记录一些完整的项目，论文思路和想法，总结自己所学，能有所进步就好。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Mit 6.284</title>
+    <url>/2021/08/06/mit-6-284/</url>
+    <content><![CDATA[<h1 id="mit-6.824">Mit 6.824</h1>
+]]></content>
+      <categories>
+        <category>分布式系统</category>
+        <category>mit 6.824</category>
+      </categories>
+      <tags>
+        <tag>mit</tag>
+        <tag>课程</tag>
+        <tag>论文</tag>
+        <tag>项目</tag>
+        <tag>go</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>论文综述</title>
+    <url>/2021/08/06/review/</url>
+    <content><![CDATA[<h1 id="论文综述">论文综述</h1>
+]]></content>
+      <tags>
+        <tag>论文</tag>
+      </tags>
   </entry>
 </search>
