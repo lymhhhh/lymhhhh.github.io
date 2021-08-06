@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lym的blog</title>
-  <icon>https://lymhhhh.github.io/icon.png</icon>
+  
   
   <link href="https://lymhhhh.github.io/atom.xml" rel="self"/>
   
@@ -23,13 +23,12 @@
     <published>2021-08-06T14:47:49.000Z</published>
     <updated>2021-08-06T14:49:16.125Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="Mit-6-824"><a href="#Mit-6-824" class="headerlink" title="Mit 6.824"></a>Mit 6.824</h1>]]></content>
+    
     
       
       
-        
-        
-    <summary type="html">&lt;h1 id=&quot;mit-6.824&quot;&gt;Mit</summary>
-        
+    <summary type="html">&lt;h1 id=&quot;Mit-6-824&quot;&gt;&lt;a href=&quot;#Mit-6-824&quot; class=&quot;headerlink&quot; title=&quot;Mit 6.824&quot;&gt;&lt;/a&gt;Mit 6.824&lt;/h1&gt;</summary>
       
     
     
@@ -58,13 +57,12 @@
     <published>2021-08-06T14:43:39.000Z</published>
     <updated>2021-08-06T14:45:42.379Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="论文综述"><a href="#论文综述" class="headerlink" title="论文综述"></a>论文综述</h1>]]></content>
+    
     
       
       
-        
-        
-    <summary type="html">&lt;h1</summary>
-        
+    <summary type="html">&lt;h1 id=&quot;论文综述&quot;&gt;&lt;a href=&quot;#论文综述&quot; class=&quot;headerlink&quot; title=&quot;论文综述&quot;&gt;&lt;/a&gt;论文综述&lt;/h1&gt;</summary>
       
     
     
@@ -81,13 +79,12 @@
     <published>2021-08-06T12:02:09.000Z</published>
     <updated>2021-08-06T14:47:18.617Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="分布式系统"><a href="#分布式系统" class="headerlink" title="分布式系统"></a>分布式系统</h1>]]></content>
+    
     
       
       
-        
-        
-    <summary type="html">&lt;h1</summary>
-        
+    <summary type="html">&lt;h1 id=&quot;分布式系统&quot;&gt;&lt;a href=&quot;#分布式系统&quot; class=&quot;headerlink&quot; title=&quot;分布式系统&quot;&gt;&lt;/a&gt;分布式系统&lt;/h1&gt;</summary>
       
     
     
@@ -114,13 +111,13 @@
     <published>2021-08-06T11:33:06.000Z</published>
     <updated>2021-08-06T14:44:25.714Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>这是我的第一篇博客，用于记录一些完整的项目，论文思路和想法，总结自己所学，能有所进步就好。</p>]]></content>
+    
     
       
       
-        
-        
-    <summary type="html">&lt;h1</summary>
-        
+    <summary type="html">&lt;h1 id=&quot;我的第一篇博客&quot;&gt;&lt;a href=&quot;#我的第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博客&quot;&gt;&lt;/a&gt;我的第一篇博客&lt;/h1&gt;&lt;p&gt;这是我的第一篇博客，用于记录一些完整的项目，论文思路和想法，总结自己所学，能有所进步就好。&lt;/p&gt;
+</summary>
       
     
     

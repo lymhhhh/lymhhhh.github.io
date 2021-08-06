@@ -1,107 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>Mit 6.284</title>
-      <link href="/2021/08/06/mit-6-284/"/>
-      <url>/2021/08/06/mit-6-284/</url>
-      
-        <content type="html"><![CDATA[<h1 id="mit-6.824">Mit 6.824</h1>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/2021/08/06/readme/</url>
+    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p>这是我的第一篇博客，用于记录一些完整的项目，论文思路和想法，总结自己所学，能有所进步就好。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>分布式系统</title>
+    <url>/2021/08/06/distributed-system/</url>
+    <content><![CDATA[<h1 id="分布式系统"><a href="#分布式系统" class="headerlink" title="分布式系统"></a>分布式系统</h1>]]></content>
       <categories>
-          
-          <category> 分布式系统 </category>
-          
-          <category> mit 6.824 </category>
-          
+        <category>分布式系统</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> mit </tag>
-            
-            <tag> 课程 </tag>
-            
-            <tag> 论文 </tag>
-            
-            <tag> 项目 </tag>
-            
-            <tag> go </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>论文综述</title>
-      <link href="/2021/08/06/review/"/>
-      <url>/2021/08/06/review/</url>
-      
-        <content type="html"><![CDATA[<h1 id="论文综述">论文综述</h1>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 论文 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分布式系统</title>
-      <link href="/2021/08/06/distributed-system/"/>
-      <url>/2021/08/06/distributed-system/</url>
-      
-        <content type="html"><![CDATA[<h1 id="分布式系统">分布式系统</h1>]]></content>
-      
-      
+      <tags>
+        <tag>mit</tag>
+        <tag>课程</tag>
+        <tag>论文</tag>
+        <tag>项目</tag>
+        <tag>go</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Mit 6.284</title>
+    <url>/2021/08/06/mit-6-284/</url>
+    <content><![CDATA[<h1 id="Mit-6-824"><a href="#Mit-6-824" class="headerlink" title="Mit 6.824"></a>Mit 6.824</h1>]]></content>
       <categories>
-          
-          <category> 分布式系统 </category>
-          
+        <category>分布式系统</category>
+        <category>mit 6.824</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> mit </tag>
-            
-            <tag> 课程 </tag>
-            
-            <tag> 论文 </tag>
-            
-            <tag> 项目 </tag>
-            
-            <tag> go </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2021/08/06/readme/"/>
-      <url>/2021/08/06/readme/</url>
-      
-        <content type="html"><![CDATA[<h1 id="我的第一篇博客">我的第一篇博客</h1><p>这是我的第一篇博客，用于记录一些完整的项目，论文思路和想法，总结自己所学，能有所进步就好。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>mit</tag>
+        <tag>课程</tag>
+        <tag>论文</tag>
+        <tag>项目</tag>
+        <tag>go</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>论文综述</title>
+    <url>/2021/08/06/review/</url>
+    <content><![CDATA[<h1 id="论文综述"><a href="#论文综述" class="headerlink" title="论文综述"></a>论文综述</h1>]]></content>
+      <tags>
+        <tag>论文</tag>
+      </tags>
+  </entry>
 </search>
