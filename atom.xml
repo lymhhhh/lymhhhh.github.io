@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>lym的blog</title>
-  
+  <icon>https://lymhhhh.github.io/icon.png</icon>
   
   <link href="https://lymhhhh.github.io/atom.xml" rel="self"/>
   
